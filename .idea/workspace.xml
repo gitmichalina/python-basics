@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="20a975bc-5afd-4b92-8d35-57076e3c7b44" name="Changes" comment="dict">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/built_in_data_structures/data_type-dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/built_in_data_structures/data_type-dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/built_in_data_structures/data_type-list.py" beforeDir="false" afterPath="$PROJECT_DIR$/built_in_data_structures/data_type-list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/built_in_data_structures/data_type-set.py" beforeDir="false" afterPath="$PROJECT_DIR$/built_in_data_structures/data_type-set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/built_in_data_structures/data_type-str.py" beforeDir="false" afterPath="$PROJECT_DIR$/built_in_data_structures/data_type-str.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +72,7 @@
       <recent name="C:\Users\micha\Projects\PyCharm\python-basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.data_type-tuple">
+  <component name="RunManager" selected="Python.data_type-list">
     <configuration name="data_type-list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics" />
       <option name="ENV_FILES" value="" />
@@ -209,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.data_type-tuple" />
         <item itemvalue="Python.data_type-list" />
+        <item itemvalue="Python.data_type-str" />
+        <item itemvalue="Python.data_type-tuple" />
         <item itemvalue="Python.for_loop" />
         <item itemvalue="Python.while_loop" />
-        <item itemvalue="Python.data_type-str" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704394883499</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="dict">
+      <option name="closed" value="true" />
+      <created>1704456604239</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704456604239</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -307,8 +319,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_basics$prime_numbers.coverage" NAME="prime_numbers Coverage Results" MODIFIED="1704384218434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simple_programs" />
-    <SUITE FILE_PATH="coverage/python_basics$data_type_str.coverage" NAME="data_type-str Coverage Results" MODIFIED="1704224972196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
-    <SUITE FILE_PATH="coverage/python_basics$data_type_list.coverage" NAME="data_type-list Coverage Results" MODIFIED="1704389475068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
+    <SUITE FILE_PATH="coverage/python_basics$data_type_str.coverage" NAME="data_type-str Coverage Results" MODIFIED="1704457877319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
+    <SUITE FILE_PATH="coverage/python_basics$data_type_list.coverage" NAME="data_type-list Coverage Results" MODIFIED="1704458143280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
     <SUITE FILE_PATH="coverage/python_basics$type_conversion.coverage" NAME="type_conversion Coverage Results" MODIFIED="1704222249477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
     <SUITE FILE_PATH="coverage/python_basics$data_type_tuple.coverage" NAME="data_type-tuple Coverage Results" MODIFIED="1704391174189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
     <SUITE FILE_PATH="coverage/python_basics$training.coverage" NAME="training Coverage Results" MODIFIED="1704223371577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

@@ -68,6 +68,13 @@ def main():
     # usuniecie wszystkich elementów z setu
     my_set.clear()
 
+    # LOOPING OVER SET
+
+    # chcemy coś zrobić z każdym elementem setu
+    for e in my_set:
+        print(e)
+
+    # można też użyć enumerate, ale sety nie mogą być indeksowane
 
 
 

@@ -85,6 +85,24 @@ def main():
         x[i] = [0] * 3
     # x = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 
+    # LOOPING OVER LIST
+
+    # chcemy coś zrobić z każdym elementem
+    for e in my_list:
+        print(e)
+
+    # chcemy coś zrobić z tym elementem i jego pozycją na liście
+    for i in range(0, len(my_list)):
+        print(my_list[i], "is at", i)
+
+     # lub (zwykle nie używa się loop do pobierania indeksów
+
+    for index, value in enumerate(my_list):
+        print(value, "is at", index)
+
+
+
+
 
 
 
