@@ -23,9 +23,5 @@ def main():
     del age["Gaston"]
 
 
-
-
-
-
 if __name__ == "__main__":
     main()

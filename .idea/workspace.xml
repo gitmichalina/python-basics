@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a975bc-5afd-4b92-8d35-57076e3c7b44" name="Changes" comment="set">
+    <list default="true" id="20a975bc-5afd-4b92-8d35-57076e3c7b44" name="Changes" comment="dict">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/built_in_data_structures/data_type-dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/built_in_data_structures/data_type-dict.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704393596378</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="dict">
+      <option name="closed" value="true" />
+      <created>1704394883499</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704394883499</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -284,7 +291,8 @@
     <MESSAGE value="list" />
     <MESSAGE value="tuple" />
     <MESSAGE value="set" />
-    <option name="LAST_COMMIT_MESSAGE" value="set" />
+    <MESSAGE value="dict" />
+    <option name="LAST_COMMIT_MESSAGE" value="dict" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
