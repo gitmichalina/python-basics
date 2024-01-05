@@ -49,7 +49,19 @@ def main():
     # każdy item jest tuple (key, value) ale jeśli zmienimy coś w trakcie loopowania będą nieprzewidziane wyniki.
     # tuples mogą być bezpośrednio unpacked do pętli for, czyli
     for k, v in my_dict.items():
+        k = "koko"
         print(k, "is", v)
+        print(my_dict.items())
+        # koko is 38
+        # dict_items([('Marta', 38), ('Misia', 37), (999, 'nie wiem'), ('Kasia', 39)])
+        # koko is 37
+        # dict_items([('Marta', 38), ('Misia', 37), (999, 'nie wiem'), ('Kasia', 39)])
+        # koko is nie
+        # wiem
+        # dict_items([('Marta', 38), ('Misia', 37), (999, 'nie wiem'), ('Kasia', 39)])
+        # koko is 39
+        # dict_items([('Marta', 38), ('Misia', 37), (999, 'nie wiem'), ('Kasia', 39)])
+
 
 
 

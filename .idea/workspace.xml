@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a975bc-5afd-4b92-8d35-57076e3c7b44" name="Changes" comment="dict">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/built_in_data_structures/data_type-dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/built_in_data_structures/data_type-dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/built_in_data_structures/data_type-list.py" beforeDir="false" afterPath="$PROJECT_DIR$/built_in_data_structures/data_type-list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/built_in_data_structures/data_type-set.py" beforeDir="false" afterPath="$PROJECT_DIR$/built_in_data_structures/data_type-set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/built_in_data_structures/data_type-str.py" beforeDir="false" afterPath="$PROJECT_DIR$/built_in_data_structures/data_type-str.py" afterDir="false" />
-    </list>
+    <list default="true" id="20a975bc-5afd-4b92-8d35-57076e3c7b44" name="Changes" comment="looping over data types" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +66,30 @@
       <recent name="C:\Users\micha\Projects\PyCharm\python-basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.data_type-list">
+  <component name="RunManager" selected="Python.data_type-dict">
+    <configuration name="data_type-dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/built_in_data_structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/built_in_data_structures/data_type-dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="data_type-list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics" />
       <option name="ENV_FILES" value="" />
@@ -188,36 +205,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="while_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basics" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/misc" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/misc/while_loop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.data_type-dict" />
         <item itemvalue="Python.data_type-list" />
         <item itemvalue="Python.data_type-str" />
         <item itemvalue="Python.data_type-tuple" />
         <item itemvalue="Python.for_loop" />
-        <item itemvalue="Python.while_loop" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704456604239</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="looping over data types">
+      <option name="closed" value="true" />
+      <created>1704458883026</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704458883026</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -304,7 +306,8 @@
     <MESSAGE value="tuple" />
     <MESSAGE value="set" />
     <MESSAGE value="dict" />
-    <option name="LAST_COMMIT_MESSAGE" value="dict" />
+    <MESSAGE value="looping over data types" />
+    <option name="LAST_COMMIT_MESSAGE" value="looping over data types" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
