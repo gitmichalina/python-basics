@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a975bc-5afd-4b92-8d35-57076e3c7b44" name="Changes" comment="copying objects, type hints">
-      <change afterPath="$PROJECT_DIR$/functional_programming/fun_programming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/misc/generators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/misc/iterators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/misc/list_comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/misc/strings_examples.py" afterDir="false" />
+    <list default="true" id="20a975bc-5afd-4b92-8d35-57076e3c7b44" name="Changes" comment="functional programming">
+      <change afterPath="$PROJECT_DIR$/testing/doctest_examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/get_digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/get_digits_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/test_suite_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Doctest get_digits_with_docstring.executor": "Run",
     "Python.classes_examples.executor": "Run",
     "Python.copying_objects.executor": "Run",
     "Python.data_type-dict.executor": "Run",
@@ -83,30 +83,7 @@
       <recent name="C:\Users\micha\Projects\PyCharm\python-basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fun_programming">
-    <configuration name="copying_objects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basics" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/misc" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/misc/copying_objects.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Doctest get_digits_with_docstring">
     <configuration name="fun_programming" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics" />
       <option name="ENV_FILES" value="" />
@@ -222,13 +199,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Doctest get_digits_with_docstring" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="python-basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testing/doctest_examples.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="get_digits_with_docstring" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Doctest get_digits_with_docstring" />
         <item itemvalue="Python.fun_programming" />
         <item itemvalue="Python.generators" />
         <item itemvalue="Python.iterators" />
         <item itemvalue="Python.strings_examples" />
-        <item itemvalue="Python.copying_objects" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +349,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704555883766</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="functional programming">
+      <option name="closed" value="true" />
+      <created>1704570087675</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1704570087675</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -368,7 +373,8 @@
     <MESSAGE value="file i/o, pickling" />
     <MESSAGE value="classes, dunder methods" />
     <MESSAGE value="copying objects, type hints" />
-    <option name="LAST_COMMIT_MESSAGE" value="copying objects, type hints" />
+    <MESSAGE value="functional programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="functional programming" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -388,6 +394,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_basics$exceptions_examples.coverage" NAME="exceptions_examples Coverage Results" MODIFIED="1704459760238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
+    <SUITE FILE_PATH="coverage/python_basics$Doctest_get_digits_with_docstring.coverage" NAME="Doctest get_digits_with_docstring Coverage Results" MODIFIED="1704570820754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
     <SUITE FILE_PATH="coverage/python_basics$fun_programming.coverage" NAME="fun_programming Coverage Results" MODIFIED="1704569346208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functional_programming" />
     <SUITE FILE_PATH="coverage/python_basics$data_type_tuple.coverage" NAME="data_type-tuple Coverage Results" MODIFIED="1704391174189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
     <SUITE FILE_PATH="coverage/python_basics$training.coverage" NAME="training Coverage Results" MODIFIED="1704223371577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
