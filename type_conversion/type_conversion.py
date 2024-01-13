@@ -1,4 +1,5 @@
 def main():
+
     round(123.45678, 3)
     # zwraca zaokrąglenie do 3 cyfr czyli 123.457
     round(56.78)
@@ -26,9 +27,9 @@ def main():
 
     # funkcja type(x)
     if (type(5) == float) is True:
-        print("True")
+        print("(type(5) == float) is True")
     if (type(5) == "int") is False:
-        print("False")
+        print("(type(5) == \"int\") is False")
 
     print(type(5))
     print(type("lo"))
@@ -39,6 +40,30 @@ def main():
     print(isinstance(3, (int, float, set))) # czy jest jednym z tych typów
     print(isinstance(3, (int | float)))  # union tych dwóch typów
     # ta funkcja nie dotyczy typów generycznych! np. list[int]
+
+    a_int = 1
+    b_float = 1.0
+    c_sum = a_int + b_float
+    print(c_sum)
+    print(type(c_sum))
+
+    # 2.0
+    # <class 'float'>
+
+    my_dict = {"name": "John", "age": 5, "city": "New York"}
+
+    my_dict = {"Marta": 38, "Misia": 37, "Gaston": 4}
+    print(set(my_dict))
+    # {'Gaston', 'Marta', 'Misia'}
+    print(list(my_dict))
+    # ['Marta', 'Misia', 'Gaston']
+    print(tuple(my_dict))
+    # ('Marta', 'Misia', 'Gaston')
+
+
+
+
+
 
 
 

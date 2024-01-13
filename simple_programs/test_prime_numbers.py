@@ -3,8 +3,10 @@ import pytest
 
 
 def test_is_prime():
-    assert prime_numbers.is_prime(1) == False
-    assert prime_numbers.is_prime(2) == True
+    # assert prime_numbers.is_prime(1) == False
+    # assert prime_numbers.is_prime(2) == True
+
+    assert bool(None), "this expression is False"
 
 # import unittest
 #

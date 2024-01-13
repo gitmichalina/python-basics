@@ -1,12 +1,18 @@
 def main():
 
-    # tworzenie pustego setu źle
+    # wrong set creation, it is an empty dict!
     wrong_creation_it_is_a_dict = {}
 
-    # tworzenie pustego setu dobrze
+    # creating an empty set
     empty_set = set()
 
-    # loopowanie przez set
+    # creating a non-empty set
+    my_set = {1, 2, 3, 4, 4, "haha"}
+    print(my_set)
+    # {1, 2, 3, 4, 'haha'}
+
+
+    # looping over a set
     s = {10, "ten", "X"}
 
     for elem in s:
@@ -60,7 +66,7 @@ def main():
     my_set.discard(element)
 
     # usuniecie elementu lub wyrzucenie wyjątku KeyError jeśli go nie ma
-    my_set.remove(element)
+    #my_set.remove(element)
 
     # usunięcie i zwrócenie dowolnego elementu z setu lub wyrzucenie wyjątku jeśli jest pusty
     my_set.pop()

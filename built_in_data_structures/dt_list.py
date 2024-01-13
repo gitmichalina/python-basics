@@ -1,44 +1,49 @@
 def main():
 
-    # tworzenie pustej listy
-
+    # creating an empty list using constructor []
     empty_list = []
 
-    # tworzenie pełnej listy
+    # creating an empty list using list()
+    empty_list_2 = list()
 
+    # creating a non-empty list
     my_list = [1, 2, 3]
+    my_hetero_list = [1, 2, 'a', 'b']
+    my_none_list = [None] * 5
+    print(my_none_list)
 
-    # tworzenie listy o konkretnej wielkości (mnożenie jej przez integera)
-
+    # creating a list with fixed number of values
     new_list = [3, 2] * 2
     # [3, 2, 3, 2]
 
-    # tworzenie listy przez factory metod
-    faxtory_list = list()
-    # []
+    # getting an element
+    my_list[0] = 8   # first element
+    my_list[-1] = 9  # last element
 
-    # dostęp do elementu, zmiana wartości
+    # modifying an element
+    my_hetero_list = [1, 2, 'a', 'b']
+    my_hetero_list[0] = "zamiast 0 bedzie ten string"
 
-    my_list[0] = 8   # pierwszy element
-    my_list[-1] = 9  # ostatni element
 
-    # zwraca liczbę elementów
-    len(my_list)
 
-    # zwraca kopię listy order asc (kolejność rosnąca)
-    sorted(my_list)
+
+    # return a number of elements
+    number_of_elements = len(my_list)
+
+    # returns a copy of a list with ascending order
+    ordered_list = sorted(my_list)
 
     element = 3
-    # dodaje element na koniec listy i zwraca None
+    # adds an element to the ned of the list and returns None
     my_list.append(element)
 
-    # usuwa ostatni element z listy i go zwraca
+    # removes the last element and returns it
     my_list.pop()
 
-    # sortuje liste i zwraca None
+    # sorts list and returns None
     my_list.sort()
 
-    # tworzenie nowej listy z fragmentu innej listy (slice), podajemy indeksy
+    # creating a new list from another sliced list.
     index_X = 1
     index_Y = 2
 

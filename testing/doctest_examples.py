@@ -1,5 +1,6 @@
 import doctest
 
+...
 
 def get_digits(number):
     """Return a list of digits in an int or string."""

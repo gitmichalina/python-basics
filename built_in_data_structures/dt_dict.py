@@ -1,20 +1,26 @@
 def main():
 
-    # tworzenie słownika
+    # creating an empty dict
+    empty_dict = {}
+
+    # creating a non-empty dict
     my_dict = {"Marta": 38, "Misia": 37, "Gaston": 5, 999: "nie wiem"}
 
-    # Pobieranie wartości
+    # Getting a value
 
-    # sposób 1. Wyrzuca KeyError jeśli klucza nie ma
+    my_dict = {"Marta": 38, "Misia": 37, "Gaston": 5, 999: "nie wiem"}
+
+    # 1. If the key is not found, a KeyError will result.
     number = my_dict["Marta"]
 
-    # sposób 2. Zwraca None jeśli klucza nie ma
+    # 2. If the key is not found, the value None is returned.
     number = my_dict.get("Marta")
 
-    # sposób 3. Zwraca wartość domyślną jeśli klucza nie ma (tu 0)
+    # 3. returns the value associated with key, or the default_value if there is no such key.  (here is 0)
     number = my_dict.get("Marta", 0)
 
-    # dodawanie do słownika nowego klucza lub podmiana wartości dla istniejącego
+
+    # adding something to the dictionary or changing the value associated with the key
     my_dict["Kasia"] = 39
     my_dict["Gaston"] = 999
 
@@ -22,34 +28,55 @@ def main():
     # do testu czy jest takiklucz, można używac in set lub not in set
     del my_dict["Gaston"]
 
+    # conversion from a dict
+
+    # When we convert from a dict to any of the other types, you get only the keys, not the values.
+
+    my_dict = {"Marta": 38, "Misia": 37, "Gaston": 4}
+    print(set(my_dict))
+    # {'Gaston', 'Marta', 'Misia'}
+    print(list(my_dict))
+    # ['Marta', 'Misia', 'Gaston']
+    print(tuple(my_dict))
+    # ('Marta', 'Misia', 'Gaston')
+
+    # conversion from a dict
+    # We can convert a list, set, or tuple to a dict only if the elements are grouped in twos, for example, a list of 2-tuples (tuples with two elements).
+
+    my_list = [("Marta", 38), ("Misia", 37), ("Gaston", 5)]
+    my_dict = dict(my_list)
+    #{'Marta': 38, 'Misia': 37, 'Gaston': 5}
+
+
 
     # LOOPING OVER DICT
 
-    # drukowanie klucza - tak jak w liscie i secie, ale zmienna petli jest klucz, a nie para klucz : wartość
+    # loop variable is the key
     for k in my_dict:
         print(k)  # prints just the keys
 
-    # to samo z metodą keys
+    #
     for k in my_dict.keys():
         print(k) # prints just the keys
 
-    # to samo z metodą values
-    for v in my_dict.values():
+    #
+    for v in my_dict.keys():
         print(v)  # prints just the values
 
     # drukowanie klucza i wartości
 
     for k in my_dict:
-        print(k, "->", my_dict[k])
+        print(k, "->", my_dict[k]) # prints keys and values
 
-    # metoda items - zwraca tuple (key, value)
+
+    # items() returns tuple (key, value)
     for t in my_dict.items():
         print(t)  # prints (key, value) tuples
     # w rzeczywistosci nie jest to lista tylko dynamic view (dynamiczny widok) elementów dict.
     # każdy item jest tuple (key, value) ale jeśli zmienimy coś w trakcie loopowania będą nieprzewidziane wyniki.
     # tuples mogą być bezpośrednio unpacked do pętli for, czyli
     for k, v in my_dict.items():
-        k = "koko"
+        # v = "koko"
         print(k, "is", v)
         print(my_dict.items())
         # koko is 38

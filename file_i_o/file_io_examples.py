@@ -1,3 +1,4 @@
+# open the file, execute statements once, close the file
 with open("plik.txt") as file:
     print("coś tu robimy, pewnie jakaś pętla po liniach")
 
@@ -24,7 +25,7 @@ my_file.write("jakiś string dodawany do pliku")
 # zamyka plik. OBOWIĄZKOWE.
 my_file.close()
 
-# Przykład - obliczenie linii w pliku
+# As an example, here is some code to count the number of lines in a text file.
 
 count = 0
 with open("plik.txt", "r") as f:

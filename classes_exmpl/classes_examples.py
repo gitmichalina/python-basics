@@ -1,3 +1,13 @@
+def kok():
+    misia = Person('Misia', 6)
+    misia.koko = "Koko"
+    print(misia)
+    del misia.koko
+    print(misia)
+    misiaP = Parson('MisiaP', 55)
+    misiaP.say_hi("wsws")
+
+
 class Person(object):
     def __init__(self, name, age):
         self.name = name
@@ -6,14 +16,20 @@ class Person(object):
     def say_hi(self):
         print('Hello', self.name)
 
+    def __str__(self):
+        return self.name + "'s age is " + str(self.age)
 
-class Person(object):
+class Parson(Person):
     def __init__(self, name, age):
+        super().__init__(name, age)
         self.name = name
         self.age = age
 
-    def say_hi(self):
-        print('Hello', self.name)
+    def say_hi(self, extra):
+        print('Hi!', extra)
+
+    def __str__(self):
+        return self.name + "'s age is " + str(self.age)
 
 
 class TheSamePerson(object):
@@ -33,11 +49,18 @@ class TheSamePerson(object):
 
 class Friend(Person):
 
-    def __str__(self):
-        return self.name + "'s age is " + str(self.age)
     def __init__(self, name, age, nick):
         super().__init__(name, age)
         self.nickname = nick
+
+    def say_hi(self, extra):
+        print('Hi!', extra)
+        # we can call the superclass version too
+        super().say_hi()
+
+    def __str__(self):
+        return self.name + "'s age is " + str(self.age)
+
 
     def __eq__(self, other):
         pass
@@ -90,5 +113,4 @@ def main():
 
 
 
-main()
-
+kok()

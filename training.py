@@ -1,6 +1,2 @@
-def main():
-    pass
-
-
-if __name__ == "__main__":
-    main()
+import os
+os.remove("D:/test555.txt")

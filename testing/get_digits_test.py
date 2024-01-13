@@ -11,4 +11,6 @@ class test_get_digits(unittest.TestCase):
         self.assertEqual(list("1230"), get_digits(1230))
 
 
-unittest.main()
+if __name__ == '__main__':
+    unittest.main()
+

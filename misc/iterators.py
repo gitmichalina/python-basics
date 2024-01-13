@@ -1,8 +1,8 @@
-it = iter([2, 3, 5])
-print(next(it))
-print(next(it))
-print(next(it))
-print(next(it))
+my_iterator = iter([2, 3, 5])
+print(next(my_iterator))
+print(next(my_iterator))
+print(next(my_iterator))
+print(next(my_iterator))
 
 def main():
 
