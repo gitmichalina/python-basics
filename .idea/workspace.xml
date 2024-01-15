@@ -5,46 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20a975bc-5afd-4b92-8d35-57076e3c7b44" name="Changes" comment="tkinter example (not working)">
-      <change afterPath="$PROJECT_DIR$/aaa/aaa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aaa/bbb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aaa/ccc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aaa/multiple_inheritence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binding/bindings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/built_in_data_structures/dt_complex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/built_in_data_structures/dt_float.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/built_in_data_structures/dt_int.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/control_structures/if_statements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functional_programming/lambda_examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/misc/iterable_iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/number_systems/assert_statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/number_systems/practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/get_dig.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/get_dig_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing/test_suite_get_dig.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type_conversion/type_conv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaa/ddd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arithmetic_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/arithmetic_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/built_in_data_structures/data_type-dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/built_in_data_structures/dt_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/built_in_data_structures/data_type-list.py" beforeDir="false" afterPath="$PROJECT_DIR$/built_in_data_structures/dt_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/built_in_data_structures/data_type-set.py" beforeDir="false" afterPath="$PROJECT_DIR$/built_in_data_structures/dt_set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/built_in_data_structures/data_type-str.py" beforeDir="false" afterPath="$PROJECT_DIR$/built_in_data_structures/dt_str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/built_in_data_structures/data_type-tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/built_in_data_structures/dt_tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_exmpl/classes_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes_exmpl/classes_examples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_i_o/file_io_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_i_o/file_io_examples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_programming/fun_programming.py" beforeDir="false" afterPath="$PROJECT_DIR$/functional_programming/fun_programming.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loops/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/loops/loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/misc/copying_objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/misc/copying_objects.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/misc/exceptions_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/misc/exceptions_examples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/misc/generators.py" beforeDir="false" afterPath="$PROJECT_DIR$/misc/generators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/misc/iterators.py" beforeDir="false" afterPath="$PROJECT_DIR$/misc/iterators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/misc/list_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/misc/list_comprehension.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/misc/strings_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/misc/strings_examples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/misc/type_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/type_conversion/type_conversion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/misc/type_hints.py" beforeDir="false" afterPath="$PROJECT_DIR$/misc/type_hints.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_programs/test_prime_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/simple_programs/test_prime_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing/doctest_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/doctest_examples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing/get_digits_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/get_digits_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing/test_suite_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/test_suite_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/training.py" beforeDir="false" afterPath="$PROJECT_DIR$/training.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,6 +66,7 @@
     "Python.data_type-list.executor": "Run",
     "Python.data_type-str.executor": "Run",
     "Python.data_type-tuple.executor": "Run",
+    "Python.ddd.executor": "Run",
     "Python.dt_dict.executor": "Run",
     "Python.dt_list.executor": "Run",
     "Python.dt_set.executor": "Run",
@@ -138,6 +101,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -147,53 +111,7 @@
       <recent name="C:\Users\micha\Projects\PyCharm\python-basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lambda_examples">
-    <configuration name="aaa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basics" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aaa" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa/aaa.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bbb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basics" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aaa" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa/bbb.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ddd">
     <configuration name="ccc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics" />
       <option name="ENV_FILES" value="" />
@@ -209,6 +127,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa/ccc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ddd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aaa" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa/ddd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,13 +227,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="training" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/training.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ddd" />
+        <item itemvalue="Python.training" />
         <item itemvalue="Python.lambda_examples" />
         <item itemvalue="Python.multiple_inheritence" />
         <item itemvalue="Python.ccc" />
-        <item itemvalue="Python.bbb" />
-        <item itemvalue="Python.aaa" />
       </list>
     </recent_temporary>
   </component>
@@ -313,6 +277,7 @@
       <updated>1703511629106</updated>
       <workItem from="1704695337265" duration="3624000" />
       <workItem from="1704964672825" duration="54542000" />
+      <workItem from="1705322965503" duration="8719000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <option name="closed" value="true" />
@@ -494,10 +459,10 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_basics$exceptions_examples.coverage" NAME="exceptions_examples Coverage Results" MODIFIED="1704459760238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
     <SUITE FILE_PATH="coverage/python_basics$Doctest_get_digits_with_docstring.coverage" NAME="Doctest get_digits_with_docstring Coverage Results" MODIFIED="1705087198096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
+    <SUITE FILE_PATH="coverage/python_basics$exceptions_examples.coverage" NAME="exceptions_examples Coverage Results" MODIFIED="1704459760238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
     <SUITE FILE_PATH="coverage/python_basics$type_conv.coverage" NAME="type_conv Coverage Results" MODIFIED="1704973916432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type_conversion" />
-    <SUITE FILE_PATH="coverage/python_basics$training.coverage" NAME="training Coverage Results" MODIFIED="1705159428238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_basics$training.coverage" NAME="training Coverage Results" MODIFIED="1705346163663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_basics$number_systems.coverage" NAME="number_systems Coverage Results" MODIFIED="1705070158632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/number_systems" />
     <SUITE FILE_PATH="coverage/python_basics$get_digits.coverage" NAME="get_digits Coverage Results" MODIFIED="1705088498065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
     <SUITE FILE_PATH="coverage/python_basics$for_loop.coverage" NAME="for_loop Coverage Results" MODIFIED="1704383194686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
@@ -509,6 +474,7 @@
     <SUITE FILE_PATH="coverage/python_basics$data_type_list.coverage" NAME="data_type-list Coverage Results" MODIFIED="1704458143280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
     <SUITE FILE_PATH="coverage/python_basics$bbb.coverage" NAME="bbb Coverage Results" MODIFIED="1705162798090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
     <SUITE FILE_PATH="coverage/python_basics$dt_list.coverage" NAME="dt_list Coverage Results" MODIFIED="1704990783173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
+    <SUITE FILE_PATH="coverage/python_basics$ddd.coverage" NAME="ddd Coverage Results" MODIFIED="1705347723057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
     <SUITE FILE_PATH="coverage/python_basics$dt_set.coverage" NAME="dt_set Coverage Results" MODIFIED="1704992408509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
     <SUITE FILE_PATH="coverage/python_basics$pickling_examples.coverage" NAME="pickling_examples Coverage Results" MODIFIED="1704470677729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pickling" />
     <SUITE FILE_PATH="coverage/python_basics$dt_dict.coverage" NAME="dt_dict Coverage Results" MODIFIED="1704996865477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
