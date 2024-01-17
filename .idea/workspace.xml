@@ -4,10 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a975bc-5afd-4b92-8d35-57076e3c7b44" name="Changes" comment="tkinter example (not working)">
-      <change afterPath="$PROJECT_DIR$/aaa/ddd.py" afterDir="false" />
+    <list default="true" id="20a975bc-5afd-4b92-8d35-57076e3c7b44" name="Changes" comment="continuation">
+      <change afterPath="$PROJECT_DIR$/abc_examples/shapes_abc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_exmpl/22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_exmpl/class_methods_and_var.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_exmpl/class_properties.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_exmpl/class_slots_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_exmpl/class_with_prop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_exmpl/dataclass_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_exmpl/dynamic_attr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_exmpl/dynamic_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_exmpl/employee_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_exmpl/file_with_descriptor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_exmpl/get_and_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_exmpl/person_with_some_specials.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composition_examples/robot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delegation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delegation/serializer_delegation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delegation/stack_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency_injection/robot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums/enum_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritence/aircrafts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritence/animals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritence/crafts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritence/mixin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritence/mro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritence/vehicles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritence/workers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polymorphism/exampel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training.py" beforeDir="false" afterPath="$PROJECT_DIR$/training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes_exmpl/example2.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes_exmpl/example2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes_exmpl/example3.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes_exmpl/example3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,42 +80,89 @@
     "Python tests.Doctest get_digits_with_docstring.executor": "Run",
     "Python tests.Python tests for get_digits_test.test_get_digits.executor": "Run",
     "Python tests.Python tests for test_prime_numbers.test_is_prime.executor": "Run",
+    "Python tests.Python tests in eee.py.executor": "Run",
     "Python tests.Python tests in get_dig_test.py.executor": "Run",
     "Python tests.Python tests in get_digits_test.py.executor": "Run",
     "Python tests.Python tests in test_suite_example.py.executor": "Run",
+    "Python.22.executor": "Run",
+    "Python.aa_global.executor": "Run",
     "Python.aaa.executor": "Run",
     "Python.bbb.executor": "Run",
     "Python.bindings.executor": "Run",
+    "Python.built_in_scope.executor": "Run",
+    "Python.calendar_module.executor": "Run",
     "Python.ccc.executor": "Run",
+    "Python.class_methods_and_var.executor": "Run",
+    "Python.class_properties.executor": "Run",
+    "Python.class_slots_.executor": "Run",
     "Python.classes_examples.executor": "Run",
+    "Python.classes_exmpl2.executor": "Run",
+    "Python.compile_func.executor": "Run",
     "Python.copying_objects.executor": "Run",
+    "Python.crafts.executor": "Run",
     "Python.data_type-dict.executor": "Run",
     "Python.data_type-list.executor": "Run",
     "Python.data_type-str.executor": "Run",
     "Python.data_type-tuple.executor": "Run",
+    "Python.dataclass_example.executor": "Run",
+    "Python.datetime_module.executor": "Run",
+    "Python.dateutil_module.executor": "Run",
     "Python.ddd.executor": "Run",
     "Python.dt_dict.executor": "Run",
     "Python.dt_list.executor": "Run",
     "Python.dt_set.executor": "Run",
     "Python.dt_tuple.executor": "Run",
+    "Python.dynamic_attr.executor": "Run",
+    "Python.dynamic_class.executor": "Run",
+    "Python.eee.executor": "Run",
+    "Python.employee_class.executor": "Run",
+    "Python.enclosing_scope.executor": "Run",
+    "Python.enum_example.executor": "Run",
+    "Python.escape_func.executor": "Run",
+    "Python.exampel.executor": "Run",
+    "Python.example2.executor": "Run",
+    "Python.example3.executor": "Run",
     "Python.exceptions_examples.executor": "Run",
+    "Python.file_with_decriptor.executor": "Run",
+    "Python.findall_func.executor": "Run",
     "Python.for_loop.executor": "Debug",
     "Python.fun_programming.executor": "Run",
     "Python.generators.executor": "Run",
     "Python.get_digits.executor": "Run",
+    "Python.globals_and_import.executor": "Run",
     "Python.gui_example.executor": "Run",
     "Python.if_statements.executor": "Run",
     "Python.iterable_iterator.executor": "Run",
     "Python.iterators.executor": "Run",
     "Python.lambda_examples.executor": "Run",
     "Python.list_comprehension.executor": "Run",
+    "Python.local_scope_ex.executor": "Run",
     "Python.loops.executor": "Run",
+    "Python.match_vs_search.executor": "Run",
+    "Python.modifying_immutable.executor": "Run",
+    "Python.modifying_out_of_scope.executor": "Run",
+    "Python.mro.executor": "Run",
     "Python.multiple_inheritence.executor": "Run",
+    "Python.mutable_in_function.executor": "Run",
+    "Python.nonlocal_ex.executor": "Run",
     "Python.number_systems.executor": "Run",
+    "Python.person_with_some_specials.executor": "Run",
     "Python.pickling_examples.executor": "Run",
     "Python.prime_numbers.executor": "Run",
+    "Python.pytz_module.executor": "Run",
+    "Python.recursion.executor": "Run",
+    "Python.regex_exmpl.executor": "Run",
+    "Python.robot (1).executor": "Run",
+    "Python.robot.executor": "Run",
+    "Python.scopes.executor": "Run",
+    "Python.search_func.executor": "Run",
+    "Python.split_func.executor": "Run",
+    "Python.stack_class.executor": "Run",
+    "Python.string_format_method.executor": "Run",
     "Python.strings_examples.executor": "Run",
+    "Python.sub_func.executor": "Run",
     "Python.thread.executor": "Debug",
+    "Python.time_module.executor": "Run",
     "Python.training.executor": "Run",
     "Python.type_conv.executor": "Run",
     "Python.type_conversion.executor": "Run",
@@ -111,8 +185,8 @@
       <recent name="C:\Users\micha\Projects\PyCharm\python-basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ddd">
-    <configuration name="ccc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.exampel">
+    <configuration name="exampel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,58 +195,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aaa" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polymorphism" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa/ccc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ddd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basics" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aaa" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa/ddd.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lambda_examples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basics" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functional_programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functional_programming/lambda_examples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/polymorphism/exampel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multiple_inheritence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -213,12 +241,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aaa" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inheritence" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa/multiple_inheritence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inheritence/mro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="training" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="robot (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -236,12 +264,58 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dependency_injection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/training.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dependency_injection/robot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="robot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/composition_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/composition_examples/robot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stack_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/delegation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/delegation/stack_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,11 +326,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ddd" />
-        <item itemvalue="Python.training" />
-        <item itemvalue="Python.lambda_examples" />
-        <item itemvalue="Python.multiple_inheritence" />
-        <item itemvalue="Python.ccc" />
+        <item itemvalue="Python.exampel" />
+        <item itemvalue="Python.robot (1)" />
+        <item itemvalue="Python.stack_class" />
+        <item itemvalue="Python.robot" />
+        <item itemvalue="Python.mro" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +351,7 @@
       <updated>1703511629106</updated>
       <workItem from="1704695337265" duration="3624000" />
       <workItem from="1704964672825" duration="54542000" />
-      <workItem from="1705322965503" duration="8719000" />
+      <workItem from="1705322965503" duration="61777000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <option name="closed" value="true" />
@@ -407,7 +481,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704574238634</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="var scope">
+      <option name="closed" value="true" />
+      <created>1705347786170</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1705347786170</updated>
+    </task>
+    <task id="LOCAL-00018" summary="continuation">
+      <option name="closed" value="true" />
+      <created>1705437948262</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1705437948262</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,7 +530,9 @@
     <MESSAGE value="functional programming" />
     <MESSAGE value="testing (doctest, unittest)" />
     <MESSAGE value="tkinter example (not working)" />
-    <option name="LAST_COMMIT_MESSAGE" value="tkinter example (not working)" />
+    <MESSAGE value="var scope" />
+    <MESSAGE value="continuation" />
+    <option name="LAST_COMMIT_MESSAGE" value="continuation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -460,43 +552,89 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_basics$Doctest_get_digits_with_docstring.coverage" NAME="Doctest get_digits_with_docstring Coverage Results" MODIFIED="1705087198096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
-    <SUITE FILE_PATH="coverage/python_basics$exceptions_examples.coverage" NAME="exceptions_examples Coverage Results" MODIFIED="1704459760238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
-    <SUITE FILE_PATH="coverage/python_basics$type_conv.coverage" NAME="type_conv Coverage Results" MODIFIED="1704973916432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type_conversion" />
+    <SUITE FILE_PATH="coverage/python_basics$employee_class.coverage" NAME="employee_class Coverage Results" MODIFIED="1705508266819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
+    <SUITE FILE_PATH="coverage/python_basics$escape_func.coverage" NAME="escape_func Coverage Results" MODIFIED="1705421702263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_exp" />
+    <SUITE FILE_PATH="coverage/python_basics$calendar_module.coverage" NAME="calendar_module Coverage Results" MODIFIED="1705415523256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date_and_time" />
     <SUITE FILE_PATH="coverage/python_basics$training.coverage" NAME="training Coverage Results" MODIFIED="1705346163663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_basics$number_systems.coverage" NAME="number_systems Coverage Results" MODIFIED="1705070158632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/number_systems" />
-    <SUITE FILE_PATH="coverage/python_basics$get_digits.coverage" NAME="get_digits Coverage Results" MODIFIED="1705088498065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
     <SUITE FILE_PATH="coverage/python_basics$for_loop.coverage" NAME="for_loop Coverage Results" MODIFIED="1704383194686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
+    <SUITE FILE_PATH="coverage/python_basics$findall_func.coverage" NAME="findall_func Coverage Results" MODIFIED="1705421186082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_exp" />
     <SUITE FILE_PATH="coverage/python_basics$dt_tuple.coverage" NAME="dt_tuple Coverage Results" MODIFIED="1704992158504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
     <SUITE FILE_PATH="coverage/python_basics$gui_example.coverage" NAME="gui_example Coverage Results" MODIFIED="1704574120641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gui_tkinter" />
-    <SUITE FILE_PATH="coverage/python_basics$generators.coverage" NAME="generators Coverage Results" MODIFIED="1705083169890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
     <SUITE FILE_PATH="coverage/python_basics$prime_numbers.coverage" NAME="prime_numbers Coverage Results" MODIFIED="1704384218434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simple_programs" />
     <SUITE FILE_PATH="coverage/python_basics$data_type_str.coverage" NAME="data_type-str Coverage Results" MODIFIED="1704457877319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
-    <SUITE FILE_PATH="coverage/python_basics$data_type_list.coverage" NAME="data_type-list Coverage Results" MODIFIED="1704458143280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
-    <SUITE FILE_PATH="coverage/python_basics$bbb.coverage" NAME="bbb Coverage Results" MODIFIED="1705162798090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/python_basics$robot.coverage" NAME="robot Coverage Results" MODIFIED="1705513142294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/composition_examples" />
     <SUITE FILE_PATH="coverage/python_basics$dt_list.coverage" NAME="dt_list Coverage Results" MODIFIED="1704990783173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
-    <SUITE FILE_PATH="coverage/python_basics$ddd.coverage" NAME="ddd Coverage Results" MODIFIED="1705347723057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/python_basics$dt_set.coverage" NAME="dt_set Coverage Results" MODIFIED="1704992408509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
+    <SUITE FILE_PATH="coverage/python_basics$ddd.coverage" NAME="ddd Coverage Results" MODIFIED="1705400284310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/python_basics$exampel.coverage" NAME="exampel Coverage Results" MODIFIED="1705515229684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/polymorphism" />
+    <SUITE FILE_PATH="coverage/python_basics$dataclass_example.coverage" NAME="dataclass_example Coverage Results" MODIFIED="1705509682001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
     <SUITE FILE_PATH="coverage/python_basics$pickling_examples.coverage" NAME="pickling_examples Coverage Results" MODIFIED="1704470677729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pickling" />
-    <SUITE FILE_PATH="coverage/python_basics$dt_dict.coverage" NAME="dt_dict Coverage Results" MODIFIED="1704996865477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
-    <SUITE FILE_PATH="coverage/python_basics$if_statements.coverage" NAME="if_statements Coverage Results" MODIFIED="1704976771825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_structures" />
-    <SUITE FILE_PATH="coverage/python_basics$thread.coverage" NAME="thread Coverage Results" MODIFIED="1704383620914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python312/Lib/concurrent/futures" />
+    <SUITE FILE_PATH="coverage/python_basics$class_slots_.coverage" NAME="class_slots_ Coverage Results" MODIFIED="1705502085963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
     <SUITE FILE_PATH="coverage/python_basics$while_loop.coverage" NAME="while_loop Coverage Results" MODIFIED="1704225946174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
     <SUITE FILE_PATH="coverage/python_basics$iterable_iterator.coverage" NAME="iterable_iterator Coverage Results" MODIFIED="1705082300585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
     <SUITE FILE_PATH="coverage/python_basics$fun_programming.coverage" NAME="fun_programming Coverage Results" MODIFIED="1705086623448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functional_programming" />
-    <SUITE FILE_PATH="coverage/python_basics$data_type_tuple.coverage" NAME="data_type-tuple Coverage Results" MODIFIED="1704391174189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
+    <SUITE FILE_PATH="coverage/python_basics$split_func.coverage" NAME="split_func Coverage Results" MODIFIED="1705421318594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_exp" />
+    <SUITE FILE_PATH="coverage/python_basics$string_format_method.coverage" NAME="string_format_method Coverage Results" MODIFIED="1705411516888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_basics$mro.coverage" NAME="mro Coverage Results" MODIFIED="1705512402541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inheritence" />
     <SUITE FILE_PATH="coverage/python_basics$loops.coverage" NAME="loops Coverage Results" MODIFIED="1704989947426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops" />
-    <SUITE FILE_PATH="coverage/python_basics$multiple_inheritence.coverage" NAME="multiple_inheritence Coverage Results" MODIFIED="1705164367889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/python_basics$.coverage" NAME=" Coverage Results" MODIFIED="1705089416778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
-    <SUITE FILE_PATH="coverage/python_basics$iterators.coverage" NAME="iterators Coverage Results" MODIFIED="1705080725736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
+    <SUITE FILE_PATH="coverage/python_basics$data_type_tuple.coverage" NAME="data_type-tuple Coverage Results" MODIFIED="1704391174189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
+    <SUITE FILE_PATH="coverage/python_basics$.coverage" NAME=" Coverage Results" MODIFIED="1705413904532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/python_basics$pytz_module.coverage" NAME="pytz_module Coverage Results" MODIFIED="1705416208297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date_and_time" />
+    <SUITE FILE_PATH="coverage/python_basics$scopes.coverage" NAME="scopes Coverage Results" MODIFIED="1705401814061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
+    <SUITE FILE_PATH="coverage/python_basics$example3.coverage" NAME="example3 Coverage Results" MODIFIED="1705486587392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
     <SUITE FILE_PATH="coverage/python_basics$copying_objects.coverage" NAME="copying_objects Coverage Results" MODIFIED="1704551114290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
-    <SUITE FILE_PATH="coverage/python_basics$data_type_dict.coverage" NAME="data_type-dict Coverage Results" MODIFIED="1704459359694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
+    <SUITE FILE_PATH="coverage/python_basics$compile_func.coverage" NAME="compile_func Coverage Results" MODIFIED="1705420953063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_exp" />
     <SUITE FILE_PATH="coverage/python_basics$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1705162267535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/python_basics$search_func.coverage" NAME="search_func Coverage Results" MODIFIED="1705420356919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_exp" />
+    <SUITE FILE_PATH="coverage/python_basics$type_conversion.coverage" NAME="type_conversion Coverage Results" MODIFIED="1704997395292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type_conversion" />
+    <SUITE FILE_PATH="coverage/python_basics$eee.coverage" NAME="eee Coverage Results" MODIFIED="1705414887280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/python_basics$classes_examples.coverage" NAME="classes_examples Coverage Results" MODIFIED="1705055475326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
+    <SUITE FILE_PATH="coverage/python_basics$example2.coverage" NAME="example2 Coverage Results" MODIFIED="1705495976018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
+    <SUITE FILE_PATH="coverage/python_basics$exceptions_examples.coverage" NAME="exceptions_examples Coverage Results" MODIFIED="1704459760238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
+    <SUITE FILE_PATH="coverage/python_basics$local_scope_ex.coverage" NAME="local_scope_ex Coverage Results" MODIFIED="1705406278541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
+    <SUITE FILE_PATH="coverage/python_basics$22.coverage" NAME="22 Coverage Results" MODIFIED="1705497311114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
+    <SUITE FILE_PATH="coverage/python_basics$type_conv.coverage" NAME="type_conv Coverage Results" MODIFIED="1704973916432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type_conversion" />
+    <SUITE FILE_PATH="coverage/python_basics$get_digits.coverage" NAME="get_digits Coverage Results" MODIFIED="1705088498065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
+    <SUITE FILE_PATH="coverage/python_basics$classes_exmpl2.coverage" NAME="classes_exmpl2 Coverage Results" MODIFIED="1705424203118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
+    <SUITE FILE_PATH="coverage/python_basics$modifying_out_of_scope.coverage" NAME="modifying_out_of_scope Coverage Results" MODIFIED="1705407176020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
+    <SUITE FILE_PATH="coverage/python_basics$generators.coverage" NAME="generators Coverage Results" MODIFIED="1705083169890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
+    <SUITE FILE_PATH="coverage/python_basics$sub_func.coverage" NAME="sub_func Coverage Results" MODIFIED="1705421625795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_exp" />
+    <SUITE FILE_PATH="coverage/python_basics$built_in_scope.coverage" NAME="built_in_scope Coverage Results" MODIFIED="1705401815835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
+    <SUITE FILE_PATH="coverage/python_basics$data_type_list.coverage" NAME="data_type-list Coverage Results" MODIFIED="1704458143280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
+    <SUITE FILE_PATH="coverage/python_basics$bbb.coverage" NAME="bbb Coverage Results" MODIFIED="1705162798090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/python_basics$datetime_module.coverage" NAME="datetime_module Coverage Results" MODIFIED="1705416094970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date_and_time" />
+    <SUITE FILE_PATH="coverage/python_basics$dt_set.coverage" NAME="dt_set Coverage Results" MODIFIED="1704992408509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
+    <SUITE FILE_PATH="coverage/python_basics$enclosing_scope.coverage" NAME="enclosing_scope Coverage Results" MODIFIED="1705406663282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
+    <SUITE FILE_PATH="coverage/python_basics$regex_exmpl.coverage" NAME="regex_exmpl Coverage Results" MODIFIED="1705419406147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_exp" />
+    <SUITE FILE_PATH="coverage/python_basics$dt_dict.coverage" NAME="dt_dict Coverage Results" MODIFIED="1704996865477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
+    <SUITE FILE_PATH="coverage/python_basics$time_module.coverage" NAME="time_module Coverage Results" MODIFIED="1705415677149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date_and_time" />
+    <SUITE FILE_PATH="coverage/python_basics$if_statements.coverage" NAME="if_statements Coverage Results" MODIFIED="1704976771825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_structures" />
+    <SUITE FILE_PATH="coverage/python_basics$thread.coverage" NAME="thread Coverage Results" MODIFIED="1704383620914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python312/Lib/concurrent/futures" />
+    <SUITE FILE_PATH="coverage/python_basics$match_vs_search.coverage" NAME="match_vs_search Coverage Results" MODIFIED="1705420602111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_exp" />
+    <SUITE FILE_PATH="coverage/python_basics$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1705415137167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functional_programming" />
+    <SUITE FILE_PATH="coverage/python_basics$class_methods_and_var.coverage" NAME="class_methods_and_var Coverage Results" MODIFIED="1705486290027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
+    <SUITE FILE_PATH="coverage/python_basics$robot__1_.coverage" NAME="robot (1) Coverage Results" MODIFIED="1705514422778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dependency_injection" />
+    <SUITE FILE_PATH="coverage/python_basics$multiple_inheritence.coverage" NAME="multiple_inheritence Coverage Results" MODIFIED="1705164367889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/python_basics$dynamic_class.coverage" NAME="dynamic_class Coverage Results" MODIFIED="1705499897896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
+    <SUITE FILE_PATH="coverage/python_basics$dateutil_module.coverage" NAME="dateutil_module Coverage Results" MODIFIED="1705416424603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date_and_time" />
+    <SUITE FILE_PATH="coverage/python_basics$file_with_decriptor.coverage" NAME="file_with_decriptor Coverage Results" MODIFIED="1705501331289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
+    <SUITE FILE_PATH="coverage/python_basics$iterators.coverage" NAME="iterators Coverage Results" MODIFIED="1705080725736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
+    <SUITE FILE_PATH="coverage/python_basics$globals_and_import.coverage" NAME="globals_and_import Coverage Results" MODIFIED="1705406239663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
+    <SUITE FILE_PATH="coverage/python_basics$data_type_dict.coverage" NAME="data_type-dict Coverage Results" MODIFIED="1704459359694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
+    <SUITE FILE_PATH="coverage/python_basics$enum_example.coverage" NAME="enum_example Coverage Results" MODIFIED="1705510704216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/enums" />
+    <SUITE FILE_PATH="coverage/python_basics$crafts.coverage" NAME="crafts Coverage Results" MODIFIED="1705512014199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inheritence" />
+    <SUITE FILE_PATH="coverage/python_basics$aa_global.coverage" NAME="aa_global Coverage Results" MODIFIED="1705405868666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
+    <SUITE FILE_PATH="coverage/python_basics$person_with_some_specials.coverage" NAME="person_with_some_specials Coverage Results" MODIFIED="1705507495855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
+    <SUITE FILE_PATH="coverage/python_basics$stack_class.coverage" NAME="stack_class Coverage Results" MODIFIED="1705513799166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/delegation" />
     <SUITE FILE_PATH="coverage/python_basics$list_comprehension.coverage" NAME="list_comprehension Coverage Results" MODIFIED="1705080235603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
     <SUITE FILE_PATH="coverage/python_basics$ccc.coverage" NAME="ccc Coverage Results" MODIFIED="1705163749736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
     <SUITE FILE_PATH="coverage/python_basics$lambda_examples.coverage" NAME="lambda_examples Coverage Results" MODIFIED="1705176606626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functional_programming" />
     <SUITE FILE_PATH="coverage/python_basics$bindings.coverage" NAME="bindings Coverage Results" MODIFIED="1705062387217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binding" />
-    <SUITE FILE_PATH="coverage/python_basics$type_conversion.coverage" NAME="type_conversion Coverage Results" MODIFIED="1704997395292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type_conversion" />
-    <SUITE FILE_PATH="coverage/python_basics$classes_examples.coverage" NAME="classes_examples Coverage Results" MODIFIED="1705055475326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
+    <SUITE FILE_PATH="coverage/python_basics$class_properties.coverage" NAME="class_properties Coverage Results" MODIFIED="1705503579670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
     <SUITE FILE_PATH="coverage/python_basics$strings_examples.coverage" NAME="strings_examples Coverage Results" MODIFIED="1705079493845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
+    <SUITE FILE_PATH="coverage/python_basics$mutable_in_function.coverage" NAME="mutable_in_function Coverage Results" MODIFIED="1705407346491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
+    <SUITE FILE_PATH="coverage/python_basics$modifying_immutable.coverage" NAME="modifying_immutable Coverage Results" MODIFIED="1705407633761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
+    <SUITE FILE_PATH="coverage/python_basics$dynamic_attr.coverage" NAME="dynamic_attr Coverage Results" MODIFIED="1705499401751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
+    <SUITE FILE_PATH="coverage/python_basics$nonlocal_ex.coverage" NAME="nonlocal_ex Coverage Results" MODIFIED="1705407939844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
   </component>
 </project>

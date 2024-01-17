@@ -5,7 +5,8 @@ class Person:
         self.age = age
 
     @classmethod
-
+    def get_person(cls, name, age):
+        return cls(name, age)
 
     @property
     def age(self):
@@ -31,8 +32,9 @@ class Person:
         return f'{self.name} is {self.age} years'
 
 
-person = Person("Misia", 14)
-person.age = 20
-print(person)
-person.name = "Koko"
+# person = Person("Misia", 14)
+# person.age = 20
+# print(person)
+# person.name = "Koko"
 
+Person.get_person("Koko", 15)
