@@ -5,36 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20a975bc-5afd-4b92-8d35-57076e3c7b44" name="Changes" comment="continuation">
-      <change afterPath="$PROJECT_DIR$/abc_examples/shapes_abc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_exmpl/22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_exmpl/class_methods_and_var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_exmpl/class_properties.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_exmpl/class_slots_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_exmpl/class_with_prop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_exmpl/dataclass_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_exmpl/dynamic_attr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_exmpl/dynamic_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_exmpl/employee_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_exmpl/file_with_descriptor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_exmpl/get_and_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes_exmpl/person_with_some_specials.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composition_examples/robot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delegation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delegation/serializer_delegation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delegation/stack_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dependency_injection/robot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enums/enum_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritence/aircrafts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritence/animals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritence/crafts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritence/mixin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritence/mro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritence/vehicles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritence/workers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism/exampel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_sql/fav_enhanced.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_sql/favorites.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_exmpl/example2.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes_exmpl/example2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_exmpl/example3.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes_exmpl/example3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +96,8 @@
     "Python.example2.executor": "Run",
     "Python.example3.executor": "Run",
     "Python.exceptions_examples.executor": "Run",
+    "Python.fav_enhanced.executor": "Run",
+    "Python.favorites.executor": "Run",
     "Python.file_with_decriptor.executor": "Run",
     "Python.findall_func.executor": "Run",
     "Python.for_loop.executor": "Debug",
@@ -185,7 +160,7 @@
       <recent name="C:\Users\micha\Projects\PyCharm\python-basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exampel">
+  <component name="RunManager" selected="Python.fav_enhanced">
     <configuration name="exampel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics" />
       <option name="ENV_FILES" value="" />
@@ -201,6 +176,52 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/polymorphism/exampel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fav_enhanced" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_sql" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_sql/fav_enhanced.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="favorites" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_sql" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_sql/favorites.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,29 +253,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basics" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inheritence" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inheritence/mro.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="robot (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics" />
       <option name="ENV_FILES" value="" />
@@ -270,29 +268,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dependency_injection/robot.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="robot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basics" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/composition_examples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/composition_examples/robot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fav_enhanced" />
+        <item itemvalue="Python.favorites" />
         <item itemvalue="Python.exampel" />
         <item itemvalue="Python.robot (1)" />
         <item itemvalue="Python.stack_class" />
-        <item itemvalue="Python.robot" />
-        <item itemvalue="Python.mro" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +326,7 @@
       <updated>1703511629106</updated>
       <workItem from="1704695337265" duration="3624000" />
       <workItem from="1704964672825" duration="54542000" />
-      <workItem from="1705322965503" duration="61777000" />
+      <workItem from="1705322965503" duration="70341000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <option name="closed" value="true" />
@@ -497,7 +472,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705437948262</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="continuation">
+      <option name="closed" value="true" />
+      <created>1705517942811</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1705517942811</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,6 +577,7 @@
     <SUITE FILE_PATH="coverage/python_basics$local_scope_ex.coverage" NAME="local_scope_ex Coverage Results" MODIFIED="1705406278541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
     <SUITE FILE_PATH="coverage/python_basics$22.coverage" NAME="22 Coverage Results" MODIFIED="1705497311114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
     <SUITE FILE_PATH="coverage/python_basics$type_conv.coverage" NAME="type_conv Coverage Results" MODIFIED="1704973916432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type_conversion" />
+    <SUITE FILE_PATH="coverage/python_basics$fav_enhanced.coverage" NAME="fav_enhanced Coverage Results" MODIFIED="1705762949661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_sql" />
     <SUITE FILE_PATH="coverage/python_basics$get_digits.coverage" NAME="get_digits Coverage Results" MODIFIED="1705088498065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
     <SUITE FILE_PATH="coverage/python_basics$classes_exmpl2.coverage" NAME="classes_exmpl2 Coverage Results" MODIFIED="1705424203118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
     <SUITE FILE_PATH="coverage/python_basics$modifying_out_of_scope.coverage" NAME="modifying_out_of_scope Coverage Results" MODIFIED="1705407176020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
@@ -632,6 +616,7 @@
     <SUITE FILE_PATH="coverage/python_basics$bindings.coverage" NAME="bindings Coverage Results" MODIFIED="1705062387217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binding" />
     <SUITE FILE_PATH="coverage/python_basics$class_properties.coverage" NAME="class_properties Coverage Results" MODIFIED="1705503579670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
     <SUITE FILE_PATH="coverage/python_basics$strings_examples.coverage" NAME="strings_examples Coverage Results" MODIFIED="1705079493845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
+    <SUITE FILE_PATH="coverage/python_basics$favorites.coverage" NAME="favorites Coverage Results" MODIFIED="1705760537437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_sql" />
     <SUITE FILE_PATH="coverage/python_basics$mutable_in_function.coverage" NAME="mutable_in_function Coverage Results" MODIFIED="1705407346491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
     <SUITE FILE_PATH="coverage/python_basics$modifying_immutable.coverage" NAME="modifying_immutable Coverage Results" MODIFIED="1705407633761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
     <SUITE FILE_PATH="coverage/python_basics$dynamic_attr.coverage" NAME="dynamic_attr Coverage Results" MODIFIED="1705499401751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
