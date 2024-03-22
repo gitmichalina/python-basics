@@ -1,4 +1,6 @@
 # open the file, execute statements once, close the file
+
+
 with open("plik.txt") as file:
     print("coś tu robimy, pewnie jakaś pętla po liniach")
 
