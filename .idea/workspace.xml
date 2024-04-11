@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a975bc-5afd-4b92-8d35-57076e3c7b44" name="Changes" comment="python and sql">
-      <change afterPath="$PROJECT_DIR$/file_i_o/fileiotest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_i_o/mbox.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyframeworks/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-basics.iml" afterDir="false" />
+    <list default="true" id="20a975bc-5afd-4b92-8d35-57076e3c7b44" name="Changes" comment="samoe practice">
+      <change afterPath="$PROJECT_DIR$/11042024-json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11042024-xml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geoscript.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_i_o/file_io_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_i_o/file_io_examples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09042024.py" beforeDir="false" afterPath="$PROJECT_DIR$/09042024.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +59,9 @@
     "Python tests.Python tests in get_dig_test.py.executor": "Run",
     "Python tests.Python tests in get_digits_test.py.executor": "Run",
     "Python tests.Python tests in test_suite_example.py.executor": "Run",
+    "Python.09042024.executor": "Run",
+    "Python.11042024-json.executor": "Run",
+    "Python.11042024.executor": "Run",
     "Python.22.executor": "Run",
     "Python.aa_global.executor": "Run",
     "Python.aaa.executor": "Run",
@@ -110,6 +111,7 @@
     "Python.for_loop.executor": "Debug",
     "Python.fun_programming.executor": "Run",
     "Python.generators.executor": "Run",
+    "Python.geoscript.executor": "Run",
     "Python.get_digits.executor": "Run",
     "Python.globals_and_import.executor": "Run",
     "Python.gui_example.executor": "Run",
@@ -157,7 +159,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.project",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -167,8 +169,8 @@
       <recent name="C:\Users\micha\Projects\PyCharm\python-basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fileiotest">
-    <configuration name="fav_enhanced" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.geoscript">
+    <configuration name="09042024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,12 +179,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_sql" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_sql/fav_enhanced.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09042024.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +193,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="favorites" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11042024-json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,12 +202,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_sql" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_sql/favorites.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11042024-json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="favorites_with_sql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11042024-xml" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,12 +225,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_sql" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_sql/favorites_with_sql.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\micha\Projects\PyCharm\python-basics\11042024-xml.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="final_favorites_without_sql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="geoscript" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,12 +271,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_sql" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\micha\Projects\PyCharm\python-basics\python_sql\final_favorites_without_sql.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geoscript.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.geoscript" />
+        <item itemvalue="Python.11042024-json" />
+        <item itemvalue="Python.11042024-xml" />
+        <item itemvalue="Python.09042024" />
         <item itemvalue="Python.fileiotest" />
-        <item itemvalue="Python.favorites_with_sql" />
-        <item itemvalue="Python.final_favorites_without_sql" />
-        <item itemvalue="Python.fav_enhanced" />
-        <item itemvalue="Python.favorites" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +342,9 @@
       <workItem from="1706370181907" duration="434000" />
       <workItem from="1706370657935" duration="1279000" />
       <workItem from="1708621505168" duration="607000" />
-      <workItem from="1711128959090" duration="8024000" />
+      <workItem from="1711128959090" duration="8670000" />
+      <workItem from="1712684560335" duration="4036000" />
+      <workItem from="1712857517938" duration="2714000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <option name="closed" value="true" />
@@ -518,7 +522,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706029338254</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="file io">
+      <option name="closed" value="true" />
+      <created>1711144144285</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1711144144286</updated>
+    </task>
+    <task id="LOCAL-00024" summary="samoe practice">
+      <option name="closed" value="true" />
+      <created>1712692700390</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1712692700390</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,7 +576,9 @@
     <MESSAGE value="csv to dict" />
     <MESSAGE value="csv to dict cd" />
     <MESSAGE value="python and sql" />
-    <option name="LAST_COMMIT_MESSAGE" value="python and sql" />
+    <MESSAGE value="file io" />
+    <MESSAGE value="samoe practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="samoe practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -586,8 +608,10 @@
     <SUITE FILE_PATH="coverage/python_basics$dt_tuple.coverage" NAME="dt_tuple Coverage Results" MODIFIED="1704992158504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
     <SUITE FILE_PATH="coverage/python_basics$gui_example.coverage" NAME="gui_example Coverage Results" MODIFIED="1704574120641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gui_tkinter" />
     <SUITE FILE_PATH="coverage/python_basics$prime_numbers.coverage" NAME="prime_numbers Coverage Results" MODIFIED="1704384218434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simple_programs" />
+    <SUITE FILE_PATH="coverage/python_basics$geoscript.coverage" NAME="geoscript Coverage Results" MODIFIED="1712862136641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_basics$data_type_str.coverage" NAME="data_type-str Coverage Results" MODIFIED="1704457877319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
     <SUITE FILE_PATH="coverage/python_basics$robot.coverage" NAME="robot Coverage Results" MODIFIED="1705513142294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/composition_examples" />
+    <SUITE FILE_PATH="coverage/python_basics$09042024.coverage" NAME="09042024 Coverage Results" MODIFIED="1712752578080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_basics$dt_list.coverage" NAME="dt_list Coverage Results" MODIFIED="1704990783173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/built_in_data_structures" />
     <SUITE FILE_PATH="coverage/python_basics$ddd.coverage" NAME="ddd Coverage Results" MODIFIED="1705400284310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
     <SUITE FILE_PATH="coverage/python_basics$exampel.coverage" NAME="exampel Coverage Results" MODIFIED="1705515229684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/polymorphism" />
@@ -640,7 +664,9 @@
     <SUITE FILE_PATH="coverage/python_basics$class_methods_and_var.coverage" NAME="class_methods_and_var Coverage Results" MODIFIED="1705486290027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
     <SUITE FILE_PATH="coverage/python_basics$robot__1_.coverage" NAME="robot (1) Coverage Results" MODIFIED="1705514422778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dependency_injection" />
     <SUITE FILE_PATH="coverage/python_basics$favorites_with_sql.coverage" NAME="favorites_with_sql Coverage Results" MODIFIED="1705945835332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_sql" />
+    <SUITE FILE_PATH="coverage/python_basics$11042024.coverage" NAME="11042024 Coverage Results" MODIFIED="1712860780331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_basics$multiple_inheritence.coverage" NAME="multiple_inheritence Coverage Results" MODIFIED="1705164367889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/python_basics$11042024_json.coverage" NAME="11042024-json Coverage Results" MODIFIED="1712861297706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_basics$dynamic_class.coverage" NAME="dynamic_class Coverage Results" MODIFIED="1705499897896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
     <SUITE FILE_PATH="coverage/python_basics$fileiotest.coverage" NAME="fileiotest Coverage Results" MODIFIED="1711139356205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/file_i_o" />
     <SUITE FILE_PATH="coverage/python_basics$dateutil_module.coverage" NAME="dateutil_module Coverage Results" MODIFIED="1705416424603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/date_and_time" />
