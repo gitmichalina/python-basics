@@ -40,4 +40,3 @@ class Circle:
 print(Circle.radius.fget)
 print(Circle.radius.fset)
 print(Circle.radius.fdel)
-print(dir(Circle.radius))
