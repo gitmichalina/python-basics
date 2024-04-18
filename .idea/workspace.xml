@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20a975bc-5afd-4b92-8d35-57076e3c7b44" name="Changes" comment="some practice">
-      <change afterPath="$PROJECT_DIR$/variables/aaa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variables/bbb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variables/ddd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numberss/aaa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numberss/float.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +63,7 @@
     "Python.12042024.executor": "Run",
     "Python.22.executor": "Run",
     "Python.aa_global.executor": "Run",
+    "Python.aaa (1).executor": "Run",
     "Python.aaa.executor": "Run",
     "Python.bbb.executor": "Run",
     "Python.bindings.executor": "Run",
@@ -126,6 +126,7 @@
     "Python.file_with_decriptor.executor": "Run",
     "Python.fileiotest.executor": "Run",
     "Python.findall_func.executor": "Run",
+    "Python.float.executor": "Run",
     "Python.for_loop.executor": "Debug",
     "Python.fun_programming.executor": "Run",
     "Python.generators.executor": "Run",
@@ -204,7 +205,30 @@
       <recent name="C:\Users\micha\Projects\PyCharm\python-basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ddd">
+  <component name="RunManager" selected="Python.float">
+    <configuration name="aaa (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numberss" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numberss/aaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="aaa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics" />
       <option name="ENV_FILES" value="" />
@@ -274,7 +298,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desc_for_many_prop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="float" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,12 +307,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lazy_prop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numberss" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lazy_prop/desc_for_many_prop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numberss/float.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,36 +344,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="many_prop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basics" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lazy_prop" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lazy_prop/many_prop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.float" />
+        <item itemvalue="Python.aaa (1)" />
         <item itemvalue="Python.ddd" />
         <item itemvalue="Python.bbb" />
         <item itemvalue="Python.aaa" />
-        <item itemvalue="Python.desc_for_many_prop" />
-        <item itemvalue="Python.many_prop" />
       </list>
     </recent_temporary>
   </component>
@@ -379,7 +380,7 @@
       <workItem from="1708621505168" duration="607000" />
       <workItem from="1711128959090" duration="8670000" />
       <workItem from="1712684560335" duration="4036000" />
-      <workItem from="1712857517938" duration="53511000" />
+      <workItem from="1712857517938" duration="63470000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <option name="closed" value="true" />
@@ -613,7 +614,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713384933404</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="some practice">
+      <option name="closed" value="true" />
+      <created>1713450613670</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1713450613670</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -708,6 +717,7 @@
     <SUITE FILE_PATH="coverage/python_basics$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1713432814590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variables" />
     <SUITE FILE_PATH="coverage/python_basics$classes_examples.coverage" NAME="classes_examples Coverage Results" MODIFIED="1705055475326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
     <SUITE FILE_PATH="coverage/python_basics$example2.coverage" NAME="example2 Coverage Results" MODIFIED="1705495976018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
+    <SUITE FILE_PATH="coverage/python_basics$aaa__1_.coverage" NAME="aaa (1) Coverage Results" MODIFIED="1713456938103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numberss" />
     <SUITE FILE_PATH="coverage/python_basics$22.coverage" NAME="22 Coverage Results" MODIFIED="1705497311114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
     <SUITE FILE_PATH="coverage/python_basics$type_conv.coverage" NAME="type_conv Coverage Results" MODIFIED="1704973916432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type_conversion" />
     <SUITE FILE_PATH="coverage/python_basics$get_digits.coverage" NAME="get_digits Coverage Results" MODIFIED="1705088498065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
@@ -740,6 +750,7 @@
     <SUITE FILE_PATH="coverage/python_basics$strings_examples.coverage" NAME="strings_examples Coverage Results" MODIFIED="1705079493845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
     <SUITE FILE_PATH="coverage/python_basics$modifying_immutable.coverage" NAME="modifying_immutable Coverage Results" MODIFIED="1705407633761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
     <SUITE FILE_PATH="coverage/python_basics$favorites_and_sql.coverage" NAME="favorites_and_sql Coverage Results" MODIFIED="1705943523055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_sql" />
+    <SUITE FILE_PATH="coverage/python_basics$float.coverage" NAME="float Coverage Results" MODIFIED="1713470598952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numberss" />
     <SUITE FILE_PATH="coverage/python_basics$employee_class.coverage" NAME="employee_class Coverage Results" MODIFIED="1705508266819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
     <SUITE FILE_PATH="coverage/python_basics$dog_terrier.coverage" NAME="dog_terrier Coverage Results" MODIFIED="1713189595464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inheritence" />
     <SUITE FILE_PATH="coverage/python_basics$inherit.coverage" NAME="inherit Coverage Results" MODIFIED="1712943982435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type_conversion" />
