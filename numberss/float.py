@@ -6,3 +6,16 @@ try:
     bool(y)
 except ValueError as exc:
     print("\n".join(textwrap.wrap(str(exc))))
+
+print(bool([]))
+
+print(len([]))
+
+a = "this"
+b = "this"
+
+print(a==b)
+print(a is b)
+
+print(id(a))
+print(id(b))
