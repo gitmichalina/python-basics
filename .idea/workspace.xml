@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20a975bc-5afd-4b92-8d35-57076e3c7b44" name="Changes" comment="some practice">
-      <change afterPath="$PROJECT_DIR$/a_prac/aaa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numberss/bbfddf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numberss/ddd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operators_practice/wa;r.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20042024/asc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterables/copis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterables/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterables/size.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterables/slicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterables/zip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,159 +52,164 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Doctest get_digits_with_docstring.executor": "Run",
-    "Python tests.Python tests for get_digits_test.test_get_digits.executor": "Run",
-    "Python tests.Python tests for test_prime_numbers.test_is_prime.executor": "Run",
-    "Python tests.Python tests in eee.py.executor": "Run",
-    "Python tests.Python tests in get_dig_test.py.executor": "Run",
-    "Python tests.Python tests in get_digits_test.py.executor": "Run",
-    "Python tests.Python tests in test_suite_example.py.executor": "Run",
-    "Python.09042024.executor": "Run",
-    "Python.11042024-json.executor": "Run",
-    "Python.11042024.executor": "Run",
-    "Python.12042024.executor": "Run",
-    "Python.22.executor": "Run",
-    "Python.aa_global.executor": "Run",
-    "Python.aaa (1).executor": "Run",
-    "Python.aaa.executor": "Run",
-    "Python.bbb.executor": "Run",
-    "Python.bbfddf.executor": "Run",
-    "Python.bindings.executor": "Run",
-    "Python.built_in_scope.executor": "Run",
-    "Python.cache_prop.executor": "Run",
-    "Python.cached_prop.executor": "Run",
-    "Python.calendar_module.executor": "Run",
-    "Python.ccc.executor": "Run",
-    "Python.class_methods_and_var.executor": "Run",
-    "Python.class_properties.executor": "Run",
-    "Python.class_slots_.executor": "Run",
-    "Python.classes_examples.executor": "Run",
-    "Python.classes_exmpl2.executor": "Run",
-    "Python.cls_inst.executor": "Run",
-    "Python.comp_attr.executor": "Run",
-    "Python.compile_func.executor": "Run",
-    "Python.copying_objects.executor": "Run",
-    "Python.crafts.executor": "Run",
-    "Python.data_type-dict.executor": "Run",
-    "Python.data_type-list.executor": "Run",
-    "Python.data_type-str.executor": "Run",
-    "Python.data_type-tuple.executor": "Run",
-    "Python.data_validation.executor": "Run",
-    "Python.dataclass_example.executor": "Run",
-    "Python.datetime_module.executor": "Run",
-    "Python.dateutil_module.executor": "Run",
-    "Python.db1py.executor": "Run",
-    "Python.ddd (1).executor": "Run",
-    "Python.ddd.executor": "Run",
-    "Python.del_attributes.executor": "Run",
-    "Python.desc1.executor": "Run",
-    "Python.desc2.executor": "Run",
-    "Python.desc3.executor": "Run",
-    "Python.desc4.executor": "Run",
-    "Python.desc5.executor": "Run",
-    "Python.desc6.executor": "Run",
-    "Python.desc7.executor": "Run",
-    "Python.desc_for_many_prop.executor": "Run",
-    "Python.dog_terrier.executor": "Run",
-    "Python.dt_dict.executor": "Run",
-    "Python.dt_list.executor": "Run",
-    "Python.dt_set.executor": "Run",
-    "Python.dt_tuple.executor": "Run",
-    "Python.dynamic_attr.executor": "Run",
-    "Python.dynamic_class.executor": "Run",
-    "Python.eee.executor": "Run",
-    "Python.employee_class.executor": "Run",
-    "Python.enclosing_scope.executor": "Run",
-    "Python.enum_example.executor": "Run",
-    "Python.escape_func.executor": "Run",
-    "Python.exampel.executor": "Run",
-    "Python.example2.executor": "Run",
-    "Python.example3.executor": "Run",
-    "Python.exceptions_examples.executor": "Run",
-    "Python.exl2.executor": "Run",
-    "Python.fav_enhanced.executor": "Run",
-    "Python.favorites.executor": "Run",
-    "Python.favorites_and_sql.executor": "Run",
-    "Python.favorites_with_sql.executor": "Run",
-    "Python.fff.executor": "Run",
-    "Python.file_with_decriptor.executor": "Run",
-    "Python.fileiotest.executor": "Run",
-    "Python.findall_func.executor": "Run",
-    "Python.float.executor": "Run",
-    "Python.for_loop.executor": "Debug",
-    "Python.fun_programming.executor": "Run",
-    "Python.generators.executor": "Run",
-    "Python.geoscript.executor": "Run",
-    "Python.get_digits.executor": "Run",
-    "Python.ggg.executor": "Run",
-    "Python.globals_and_import.executor": "Run",
-    "Python.gui_example.executor": "Run",
-    "Python.hhh.executor": "Run",
-    "Python.if_statements.executor": "Run",
-    "Python.immutable_attr.executor": "Run",
-    "Python.inherit.executor": "Run",
-    "Python.iterable_iterator.executor": "Run",
-    "Python.iterators.executor": "Run",
-    "Python.lambda_examples.executor": "Run",
-    "Python.lazy_prop.executor": "Run",
-    "Python.lazy_prop2.executor": "Run",
-    "Python.list_comprehension.executor": "Run",
-    "Python.local_scope_ex.executor": "Run",
-    "Python.log1.executor": "Run",
-    "Python.loops.executor": "Run",
-    "Python.many_prop.executor": "Run",
-    "Python.match_vs_search.executor": "Run",
-    "Python.modifying_immutable.executor": "Run",
-    "Python.modifying_out_of_scope.executor": "Run",
-    "Python.mro.executor": "Run",
-    "Python.multiple_inheritence.executor": "Run",
-    "Python.mutable_in_function.executor": "Run",
-    "Python.nonlocal_ex.executor": "Run",
-    "Python.number_systems.executor": "Run",
-    "Python.objects_practice.executor": "Run",
-    "Python.overr_prop.executor": "Run",
-    "Python.person_with_some_specials.executor": "Run",
-    "Python.pickling_examples.executor": "Run",
-    "Python.practice_1304.executor": "Run",
-    "Python.prime_numbers.executor": "Run",
-    "Python.prop_decor.executor": "Run",
-    "Python.pytz_module.executor": "Run",
-    "Python.recalculate.executor": "Run",
-    "Python.recursion.executor": "Run",
-    "Python.regex_exmpl.executor": "Run",
-    "Python.robot (1).executor": "Run",
-    "Python.robot.executor": "Run",
-    "Python.scopes.executor": "Run",
-    "Python.search_func.executor": "Run",
-    "Python.split_func.executor": "Run",
-    "Python.stack_class.executor": "Run",
-    "Python.string_format_method.executor": "Run",
-    "Python.strings_examples.executor": "Run",
-    "Python.sub_func.executor": "Run",
-    "Python.thread.executor": "Debug",
-    "Python.time_module.executor": "Run",
-    "Python.training.executor": "Run",
-    "Python.type_conv.executor": "Run",
-    "Python.type_conversion.executor": "Run",
-    "Python.wa;r.executor": "Run",
-    "Python.while_loop.executor": "Run",
-    "Python.write_only_attr.executor": "Run",
-    "Python.wrong_lazy.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/micha/Projects/PyCharm/python-basics",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Doctest get_digits_with_docstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for get_digits_test.test_get_digits.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_prime_numbers.test_is_prime.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in eee.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in get_dig_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in get_digits_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_suite_example.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09042024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11042024-json.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11042024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12042024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aa_global.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aaa (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.aaa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.asc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bbb.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bbfddf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bindings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.built_in_scope.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cache_prop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cached_prop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calendar_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ccc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class_methods_and_var.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class_properties.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class_slots_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classes_examples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classes_exmpl2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cls_inst.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comp_attr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.compile_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.copis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.copying_objects.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crafts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_type-dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_type-list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_type-str.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_type-tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_validation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dataclass_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.datetime_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dateutil_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.db1py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ddd (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ddd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.del_attributes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desc1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desc2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desc3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desc4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desc5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desc6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desc7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desc_for_many_prop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dog_terrier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dt_dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dt_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dt_set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dt_tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dynamic_attr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dynamic_class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.eee.executor&quot;: &quot;Run&quot;,
+    &quot;Python.employee_class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.enclosing_scope.executor&quot;: &quot;Run&quot;,
+    &quot;Python.enum_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.escape_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exampel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exceptions_examples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exl2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fav_enhanced.executor&quot;: &quot;Run&quot;,
+    &quot;Python.favorites.executor&quot;: &quot;Run&quot;,
+    &quot;Python.favorites_and_sql.executor&quot;: &quot;Run&quot;,
+    &quot;Python.favorites_with_sql.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fff.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_with_decriptor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fileiotest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.findall_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.float.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for_loop.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.fun_programming.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.geoscript.executor&quot;: &quot;Run&quot;,
+    &quot;Python.get_digits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ggg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.globals_and_import.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gui_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hhh.executor&quot;: &quot;Run&quot;,
+    &quot;Python.if_statements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.immutable_attr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inherit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.iterable_iterator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.iterators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda_examples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lazy_prop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lazy_prop2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_comprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.local_scope_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.log1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.many_prop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.match_vs_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modifying_immutable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modifying_out_of_scope.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiple_inheritence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mutable_in_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nonlocal_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_systems.executor&quot;: &quot;Run&quot;,
+    &quot;Python.objects_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.overr_prop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.person_with_some_specials.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pickling_examples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice_1304.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prop_decor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pytz_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recalculate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.regex_exmpl.executor&quot;: &quot;Run&quot;,
+    &quot;Python.robot (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.robot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scopes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.search_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.size.executor&quot;: &quot;Run&quot;,
+    &quot;Python.slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.split_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stack_class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string_format_method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.strings_examples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sub_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.thread.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.time_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.training.executor&quot;: &quot;Run&quot;,
+    &quot;Python.type_conv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.type_conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wa;r.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.write_only_attr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wrong_lazy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zip.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/micha/Projects/PyCharm/python-basics&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PythonContentEntriesConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\micha\Projects\PyCharm\python-basics\property_func" />
@@ -210,8 +217,8 @@
       <recent name="C:\Users\micha\Projects\PyCharm\python-basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.aaa">
-    <configuration name="aaa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.zip">
+    <configuration name="asc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,12 +227,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/a_prac" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20042024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a_prac/aaa.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20042024/asc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bbfddf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="copis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,58 +250,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numberss" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iterables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numberss/bbfddf.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ddd (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basics" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numberss" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numberss/ddd.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="float" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basics" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numberss" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numberss/float.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterables/copis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,7 +287,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wa;r" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="size" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -335,12 +296,58 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/operators_practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iterables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/operators_practice/wa;r.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterables/size.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="slicing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iterables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterables/slicing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iterables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterables/zip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,11 +358,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.aaa" />
-        <item itemvalue="Python.wa;r" />
-        <item itemvalue="Python.ddd (1)" />
-        <item itemvalue="Python.bbfddf" />
-        <item itemvalue="Python.float" />
+        <item itemvalue="Python.zip" />
+        <item itemvalue="Python.size" />
+        <item itemvalue="Python.slicing" />
+        <item itemvalue="Python.copis" />
+        <item itemvalue="Python.asc" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +392,7 @@
       <workItem from="1708621505168" duration="607000" />
       <workItem from="1711128959090" duration="8670000" />
       <workItem from="1712684560335" duration="4036000" />
-      <workItem from="1712857517938" duration="70392000" />
+      <workItem from="1712857517938" duration="80734000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <option name="closed" value="true" />
@@ -643,7 +650,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713530937643</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="some practice">
+      <option name="closed" value="true" />
+      <created>1713607485718</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1713607485718</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -705,6 +720,11 @@
           <line>66</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/iterables/copis.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -729,17 +749,20 @@
     <SUITE FILE_PATH="coverage/python_basics$split_func.coverage" NAME="split_func Coverage Results" MODIFIED="1705421318594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_exp" />
     <SUITE FILE_PATH="coverage/python_basics$string_format_method.coverage" NAME="string_format_method Coverage Results" MODIFIED="1705411516888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_basics$desc4.coverage" NAME="desc4 Coverage Results" MODIFIED="1713369567834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/descriptors" />
+    <SUITE FILE_PATH="coverage/python_basics$slicing.coverage" NAME="slicing Coverage Results" MODIFIED="1713639064250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterables" />
     <SUITE FILE_PATH="coverage/python_basics$loops.coverage" NAME="loops Coverage Results" MODIFIED="1704989947426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops" />
     <SUITE FILE_PATH="coverage/python_basics$.coverage" NAME=" Coverage Results" MODIFIED="1705413904532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
     <SUITE FILE_PATH="coverage/python_basics$practice_1304.coverage" NAME="practice_1304 Coverage Results" MODIFIED="1713027363464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type_conversion" />
     <SUITE FILE_PATH="coverage/python_basics$compile_func.coverage" NAME="compile_func Coverage Results" MODIFIED="1705420953063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_exp" />
     <SUITE FILE_PATH="coverage/python_basics$comp_attr.coverage" NAME="comp_attr Coverage Results" MODIFIED="1713185823819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/property_func" />
     <SUITE FILE_PATH="coverage/python_basics$search_func.coverage" NAME="search_func Coverage Results" MODIFIED="1705420356919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_exp" />
-    <SUITE FILE_PATH="coverage/python_basics$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1713545894301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a_prac" />
+    <SUITE FILE_PATH="coverage/python_basics$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1713607539008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a_prac" />
     <SUITE FILE_PATH="coverage/python_basics$classes_examples.coverage" NAME="classes_examples Coverage Results" MODIFIED="1705055475326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
+    <SUITE FILE_PATH="coverage/python_basics$asc.coverage" NAME="asc Coverage Results" MODIFIED="1713612722883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20042024" />
     <SUITE FILE_PATH="coverage/python_basics$example2.coverage" NAME="example2 Coverage Results" MODIFIED="1705495976018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
     <SUITE FILE_PATH="coverage/python_basics$aaa__1_.coverage" NAME="aaa (1) Coverage Results" MODIFIED="1713456938103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numberss" />
     <SUITE FILE_PATH="coverage/python_basics$22.coverage" NAME="22 Coverage Results" MODIFIED="1705497311114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
+    <SUITE FILE_PATH="coverage/python_basics$zip.coverage" NAME="zip Coverage Results" MODIFIED="1713692381476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterables" />
     <SUITE FILE_PATH="coverage/python_basics$type_conv.coverage" NAME="type_conv Coverage Results" MODIFIED="1704973916432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/type_conversion" />
     <SUITE FILE_PATH="coverage/python_basics$get_digits.coverage" NAME="get_digits Coverage Results" MODIFIED="1705088498065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing" />
     <SUITE FILE_PATH="coverage/python_basics$prop_decor.coverage" NAME="prop_decor Coverage Results" MODIFIED="1713083637258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/property_func" />
@@ -747,6 +770,7 @@
     <SUITE FILE_PATH="coverage/python_basics$sub_func.coverage" NAME="sub_func Coverage Results" MODIFIED="1705421625795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_exp" />
     <SUITE FILE_PATH="coverage/python_basics$enclosing_scope.coverage" NAME="enclosing_scope Coverage Results" MODIFIED="1705406663282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
     <SUITE FILE_PATH="coverage/python_basics$fff.coverage" NAME="fff Coverage Results" MODIFIED="1713027694356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/python_basics$size.coverage" NAME="size Coverage Results" MODIFIED="1713684695680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterables" />
     <SUITE FILE_PATH="coverage/python_basics$if_statements.coverage" NAME="if_statements Coverage Results" MODIFIED="1704976771825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control_structures" />
     <SUITE FILE_PATH="coverage/python_basics$thread.coverage" NAME="thread Coverage Results" MODIFIED="1704383620914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python312/Lib/concurrent/futures" />
     <SUITE FILE_PATH="coverage/python_basics$recalculate.coverage" NAME="recalculate Coverage Results" MODIFIED="1713186019293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/property_func" />
@@ -803,6 +827,7 @@
     <SUITE FILE_PATH="coverage/python_basics$exceptions_examples.coverage" NAME="exceptions_examples Coverage Results" MODIFIED="1704459760238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/misc" />
     <SUITE FILE_PATH="coverage/python_basics$local_scope_ex.coverage" NAME="local_scope_ex Coverage Results" MODIFIED="1705406278541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
     <SUITE FILE_PATH="coverage/python_basics$fav_enhanced.coverage" NAME="fav_enhanced Coverage Results" MODIFIED="1705762949661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_sql" />
+    <SUITE FILE_PATH="coverage/python_basics$copis.coverage" NAME="copis Coverage Results" MODIFIED="1713638382464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterables" />
     <SUITE FILE_PATH="coverage/python_basics$classes_exmpl2.coverage" NAME="classes_exmpl2 Coverage Results" MODIFIED="1705424203118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_exmpl" />
     <SUITE FILE_PATH="coverage/python_basics$modifying_out_of_scope.coverage" NAME="modifying_out_of_scope Coverage Results" MODIFIED="1705407176020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
     <SUITE FILE_PATH="coverage/python_basics$built_in_scope.coverage" NAME="built_in_scope Coverage Results" MODIFIED="1705401815835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scopes_and_namespaces" />
